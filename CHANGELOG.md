@@ -68,24 +68,9 @@ Dieses Projekt folgt [Semantic Versioning](https://semver.org/):
 
 ---
 
-## Geplante Features
-
-### [1.1.0] - Geplant
-- [ ] Kubernetes Support
-- [ ] Prometheus Metriken Export
-- [ ] Grafana Dashboard Templates
-- [ ] Email Benachrichtigungen
-
-### [1.2.0] - Geplant
-- [ ] Machine Learning für Predictive Maintenance
-- [ ] Multi-Cluster Support
-- [ ] Custom Alerting Rules
-- [ ] Web-basierte Konfiguration
-
----
 
 ## Links
 
-- [GitHub Repository](https://github.com/username/self-healing-system)
-- [Issue Tracker](https://github.com/username/self-healing-system/issues)
-- [Dokumentation](https://github.com/username/self-healing-system#readme)
+- [GitHub Repository](https://github.com/overlex2/self-healing-system)
+- [Issue Tracker](https://github.com/overlex2/self-healing-system/issues)
+- [Dokumentation](https://github.com/overlex2/self-healing-system#readme)
