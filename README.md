@@ -2,7 +2,7 @@
 
 > Autonome Infrastruktur mit Claude AI für automatische Server-Reparatur
 
-![Status](https://img.shields.io/badge/Status-Active-00ff88?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Offline-00ff88?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)
 ![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5A?style=flat-square)
 ![Claude AI](https://img.shields.io/badge/Claude-AI-8B5CF6?style=flat-square)
